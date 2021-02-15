@@ -1,0 +1,1 @@
+Small script to convert measurments made in the format feet' inches" into float feets. 
